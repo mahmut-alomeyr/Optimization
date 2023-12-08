@@ -11,5 +11,13 @@ Stochastic Gradient Descent is a variant of Gradient Descent. Unlike GD, which u
 ### 3. ADAM (Adaptive Moment Estimation)
 ADAM is an optimization algorithm that combines ideas from RMSProp and SGD with momentum. It computes adaptive learning rates for each parameter. ADAM is particularly effective in settings with large amounts of data and parameters.
 
-##NOTE : you dont need to do any thing , just run the code and the program will automaticly creates the folders which have the reasults files.
-##NOTE : after the program end just run the PY program to visualize the results
+### Getting Started
+
+To use these implementations:
+
+1. **Run the C Program**: 
+   - Simply execute the `main.c` program. 
+   - The program automatically creates folders containing the result files.
+
+2. **Visualize Results**:
+   - After the C program completes, run the accompanying Python script to visualize the results.
